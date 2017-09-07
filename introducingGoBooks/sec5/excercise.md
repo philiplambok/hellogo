@@ -9,7 +9,7 @@
 	}
 	``` 
 	akses array ke empat dengan `arr[3]`. Jika pada slice :
-	``go
+	```go
 	arr := make([]int, 5){
 		23,43,12,3,4,
 	}
