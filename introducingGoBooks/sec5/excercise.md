@@ -44,8 +44,13 @@
 			19, 97, 9, 17,
 		}
 		max := 0
+		min := x[0]
 
 		for _, value := range x {
+
+			if value < min {
+				min = value
+			}
 
 			if value > max {
 				max = value
@@ -54,5 +59,8 @@
 		}
 
 		fmt.Println(`Max : `, max)
+		fmt.Println(`Min : `, min)
+	}
+
 	}
 	```
