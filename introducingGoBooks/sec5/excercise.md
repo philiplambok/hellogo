@@ -17,6 +17,7 @@
 	Akses array dengan `arr[3]`. 
 
 2. **What is the length of a slice created using make([]int, 3, 9) ?**
+	
 	tiga (3)
 
 3. **Write a program that finds the smallest number in this list:**
