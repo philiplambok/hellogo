@@ -33,7 +33,7 @@
 
 2. **What is the value of x after running x := 5; x += 1**
 
-	6. (konsep variable)
+	6 (konsep variable)
 
 3. **What is scope? How do you determine the scope of a variable in Go?**
 
