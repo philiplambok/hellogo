@@ -6,7 +6,7 @@ Whitespace adalah spasi kosong, atau enter kosong yang digunakan saat pembuatan 
 2. What is a comment? What are the two ways of writing a comment?
 Comment berguna untuk dokumentasi program. Ada dua cara untuk menulis komentar, pertama dengan `// Comment Here` untuk satu baris komentar dan `/* */` Untuk komentar yang lebih dari satu baris
 
-3.Our program began with package main . What would the files in the fmt package
+3. Our program began with package main . What would the files in the fmt package
 begin with?
 Untuk dapat memakai paket fmt(format) harus melalukan import terlabih dahulu `import "fmt"`. Dan file-file dalam pake fmt akan dimulai dengan pendeklarasian paketnya terlebih dahulu `package fmt`.
 
