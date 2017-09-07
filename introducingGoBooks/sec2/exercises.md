@@ -24,8 +24,7 @@ ator for multiplication).**
 	```
 
 4. **What is a string? How do you find its length?**
-
-Mengunakan fungsi `len("string here..")`
+	Mengunakan fungsi `len("string here..")`
 
 5. **What’s the value of the expression (true && false) || (false && true) || !
 (false && false) ?**
