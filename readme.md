@@ -4,7 +4,8 @@ Berisi kumpulan jawaban dari buku2 atau referensi.
 
 ## Introducing Go : Build Reliable, Scalable Programs
 ![Introducing Go Books](https://images-na.ssl-images-amazon.com/images/I/51YpdMrI1kL._SX379_BO1,204,203,200_.jpg)
-
+Amazon: [https://www.amazon.com/Introducing-Go-Reliable-Scalable-Programs/dp/1491941952](https://www.amazon.com/Introducing-Go-Reliable-Scalable-Programs/dp/1491941952)
+Online : [https://www.golang-book.com/](https://www.golang-book.com/)
 1. [Getting Started](https://github.com/philiplambok/hellogo/blob/master/introducingGoBooks/sec1/exercises.md)  
 2. [Types](https://github.com/philiplambok/hellogo/blob/master/introducingGoBooks/sec2/exercises.md)  
 3. [Variables](https://github.com/philiplambok/hellogo/blob/master/introducingGoBooks/sec3/exercises.md)  
