@@ -3,7 +3,7 @@
 Berisi kumpulan jawaban dari buku2 atau referensi.
 
 ## Introducing Go : Build Reliable, Scalable Programs
-<img src="https://images-na.ssl-images-amazon.com/images/I/51YpdMrI1kL._SX379_BO1,204,203,200_.jpg" width="100px">
+![Introducing Go Books](https://images-na.ssl-images-amazon.com/images/I/51YpdMrI1kL._SX379_BO1,204,203,200_.jpg)
 
 1. [Getting Started](https://github.com/philiplambok/hellogo/blob/master/introducingGoBooks/sec1/exercises.md)  
 2. [Types](https://github.com/philiplambok/hellogo/blob/master/introducingGoBooks/sec2/exercises.md)  
