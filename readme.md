@@ -21,3 +21,10 @@ Berisi kumpulan jawaban dari buku2 atau referensi.
 10. [Concurency](https://github.com/philiplambok/hellogo/blob/master/introducingGoBooks/sec10/exercises.md)  
 
 
+testing markdown :)
+
+# Heading 1
+standart text
+## Heading 2 
+### Heading 3
+#### Heading 4
